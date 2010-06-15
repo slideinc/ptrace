@@ -9,7 +9,7 @@ from paver.setuputils import setup
 
 setup(
     name="ptrace",
-    description="",
+    description="C extension providing access to ptrace(2)",
     version="1.0",
     license="bsd",
     author="Libor Michalek",
